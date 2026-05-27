@@ -1,29 +1,57 @@
 # 关于我 / About Me
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+你好！我是**Cyarin**。
 
-## 🛠️ 关于本站
-
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
-
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
-
-
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
-
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
-
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
-
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
-
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
-
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
+:::note[๑ᐢ..ᐢ๑]
+동롱구이 고양이의 미식 여행
+:::
+一位深耕「生命体征维持」「低功耗运行」领域的资深生活观察员，拥有二十余年无间断呼吸经验，擅长在 deadline 边缘反复横跳，在舒适区里建造豪华别墅。我将毕生精力投入于研究如何以最小能耗获取最大快乐，并在此记录我的田野调查报告。
+我始终相信，人生不是轨道而是旷野，而我是旷野里那棵最佛系的树——不结果、不争春、只负责光合作用。我的研究领域横跨昼夜节律紊乱学、电子榨菜鉴赏学、被窝热力学等多个冷门学科，期待与同道中人建立非正式学术交流。
 
 ---
 
-*感谢你的来访！希望在这里能找到对你有用的内容！*
+🌍 *身份档案*
+
+✈️ 已打卡 0 国｜小红书云游 100+  
+🙋🏻‍♀️ 纯血地球人｜智人属晚期智人种  
+👩🏻‍💻 家里蹲大学终身荣誉教授｜哈佛耶鲁普林斯顿共同拒收者  
+🎓 九年义务教育完整体验官｜应试教育幸存者  
+
+---
+
+🛍️ *生活达人*
+
+🧋 全糖去冰原教旨主义者｜奶茶续命学派掌门人  
+🛒 购物车哲学家｜收藏夹囤积症晚期  
+🍉 电子瓜田资深猹｜热搜榜常驻吃瓜群众  
+💤 非快速眼动睡眠研究员｜回笼觉一级表演艺术家  
+
+---
+
+📷 *技能标签*
+
+📷 美颜相机参数学博士｜滤镜调色玄学大师  
+🏄🏻‍♀️ 互联网 5G 冲浪运动员｜评论区气氛组王牌  
+🎤 浴室格莱美得主｜全民 K 歌气氛型选手  
+🎭 朋友圈分组管理学专家｜已读不回行为艺术家  
+🐟 摸鱼学概论客座讲师｜带薪如厕时间管理大师  
+📵 闹钟免疫体｜早起未遂记录保持者  
+🧘‍♀️ 冥想式发呆传承人｜拖延症非物质文化遗产继承人    
+
+---
+
+💻 *专业技术*
+
+精通 Microsoft Office、WPS、Google Docs 等软件的**打开与关闭**  
+熟练掌握 Adobe 全家桶（Ps、Pr、Ae、Ai、Id、Lr、Br）的**图标辨认与双击启动**  
+深入理解 Python、Java、C++、JavaScript、Go、Rust 等词汇的**字母拼写顺序**  
+熟练操作 Windows、macOS、iOS、Android、HarmonyOS 等系统的**锁屏与解锁**  
+掌握 Wi-Fi、蓝牙、5G、4G、飞行模式的**开关切换技术**  
+精通 Ctrl+C / Ctrl+V 跨平台复制粘贴工程  
+持有普通话二级甲等证书（证明我会说话）  
+熟练掌握汉语拼音 26 键输入技术，打字速度高达**每分钟好几十个字**
+
+---
+
+*感谢你的来访！*
 
