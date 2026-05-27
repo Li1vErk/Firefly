@@ -10,10 +10,10 @@ export const siteConfig: SiteConfig = {
 	title: "Nightmare",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "夜深千丈灯",
 
 	// 站点 URL
-	site_url: "http://localhost:4321",
+	site_url: "https://firefly-6w6.pages.dev/",
 
 	// 站点描述
 	description:
