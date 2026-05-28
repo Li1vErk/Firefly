@@ -57,7 +57,7 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		{
 			// 图标文件路径
-			src: "https://cloudflare-imgbed.cyarin128.workers.dev/file/Blog/1779945538675_logo_pen_白底.gif",
+			src: "https://cloudflare-imgbed.cyarin128.workers.dev/file/1779805227270_Image_1778484542567_180.gif",
 			// 可选，指定主题 'light' | 'dark'
 			// theme: "light",
 			// 可选，图标大小
@@ -75,7 +75,7 @@ export const siteConfig: SiteConfig = {
 		// 4. 网络图片: { type: "url", value: "https://example.com/logo.png", alt: "Logo" }
 		logo: {
 			type: "image",
-			value: "assets/images/导航栏logo.png",
+			value: "assets/images/手绘风樱花.png",
 			alt: "🧀",
 		},
 		// 导航栏标题
