@@ -25,7 +25,7 @@ export const friendsConfig: FriendLink[] = [
 	{
 		title: "Cyarin's ImgBed",
 		imgurl:
-			"https://cloudflare-imgbed.cyarin128.workers.dev/file/Blog/1779891962077_导航栏logo.png",
+			"https://imgbed.575040.xyz/file/Blog/1779891962077_导航栏logo.png",
 		desc: "๑ᐢ..ᐢ๑ 这是我的个人图床",
 		siteurl: "https://cloudflare-imgbed.cyarin128.workers.dev/",
 		tags: ["ImgBed"],
